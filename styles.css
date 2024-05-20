@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+#main-div{
+    display: flex;
+    flex-direction: column;
+}
+#main-div > #red-div{
+    height: 100px;
+    width: 800px;
+    background-color: #D90012;
+}
+#main-div > #blue-div{
+    height: 100px;
+    width: 800px;
+    background-color: #001489;
+}
+#main-div > #orange-div{
+    height: 100px;
+    width: 800px;
+    background-color: #FF9E1B;
+}
